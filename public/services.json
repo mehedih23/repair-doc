@@ -1,0 +1,50 @@
+[
+  {
+    "id": "625647811c0e3500956d05b8",
+    "index": 0,
+    "price": "$197.09",
+    "image": "https://i.ibb.co/SRPsrhL/Engine-tune-up.png",
+    "name": "Engine tune-up",
+    "about": "Today, engine tune-ups include checking, diagnosing, and replacing bad spark plugs, spark plug wires, distributor caps, fuel filters, air filters, and oil filters. Tune-ups can also include checking emission levels, fuel lines, wiring, coolant hoses, and serpentine belts."
+  },
+  {
+    "id": "625647816b0e2fd3be191310",
+    "index": 1,
+    "price": "$521.69",
+    "image": "https://i.ibb.co/M1c98NG/Antifreeze-added.png",
+    "name": "Antifreeze added",
+    "about": "Antifreeze, any substance that lowers the freezing point of water, protecting a system from the ill effects of ice formation. Antifreezes, such as ethylene glycol or propylene glycol, commonly added to water in automobile cooling systems prevent damage to radiators."
+  },
+  {
+    "id": "62564781757a777b8b8c3771",
+    "index": 2,
+    "price": "$482.57",
+    "image": "https://i.ibb.co/8Dcmcrd/Battery-replacement.png",
+    "name": "Battery replacement",
+    "about": "Car batteries usually have a lifespan of between three and five years, which means that you might not need to change a dead battery if you buy a brand new car every three to four years."
+  },
+  {
+    "id": "62564781b39888daf18cee1b",
+    "index": 3,
+    "price": "$575.97",
+    "image": "https://i.ibb.co/hyv2yRw/Transmission-Fluid-Service.png",
+    "name": "Transmission Fluid Service",
+    "about": "In automatic transmissions/transaxles, the recommended service interval is about every 30,000 miles or 30 months. (Check your owner's manual or service manual for your car's specifics.) The automatic transmission fluid (ATF) should be changed sooner if its dipstick reveals dark or burnt-smelling fluid."
+  },
+  {
+    "id": "62564781ece90bd3b5ef844c",
+    "index": 4,
+    "price": "$224.72",
+    "image": "https://i.ibb.co/G5XxSXg/Replace-air-filter.png",
+    "name": "Replace air filter",
+    "about": "Your filters should be changed every 30 to 90 days, depending on the type and efficiency of your filter. During peak winter and summer months, your HVAC system is operating at its highest capacity, and it's recommended that you change your air filter every month."
+  },
+  {
+    "id": "6256478115317f5fc43a311b",
+    "index": 5,
+    "price": "$609.87",
+    "image": "https://i.ibb.co/9cq1kJW/Wiper-blades-replacement.png",
+    "name": "Wiper blades replacement",
+    "about": "While windshield wipers are a small component of your car, they can have a major impact on your driving performance. Wiper blades increase your visibility while driving during rainfall and storms and can often be your saviour in a tight spot. Hence, they are an important safety feature of your car and must be maintained like the other components of the vehicle.Replacing your old wiper blades is essential as they become less effective and even lead to windshield damage. Besides, wiper blade replacement is an easy exercise that you can perform on your own if you don’t wish to go out to a service centre. Read on to find out how and when to replace your car wipers."
+  }
+]

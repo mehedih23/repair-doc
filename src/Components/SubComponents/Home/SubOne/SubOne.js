@@ -13,7 +13,7 @@ const SubOne = () => {
             <Carousel activeIndex={index} onSelect={handleSelect}>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100  vh-100"
+                        className="d-block w-100 vh-100 img-fluid"
                         src="https://i.ibb.co/gSHXyBH/cars-1.jpg"
                         alt="First slide"
                     />
@@ -24,7 +24,7 @@ const SubOne = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100  vh-100"
+                        className="d-block w-100  vh-100 img-fluid"
                         src="https://i.ibb.co/6Jsz3gq/cars-2.jpg"
                         alt="Second slide"
                     />
@@ -36,7 +36,7 @@ const SubOne = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100 vh-100"
+                        className="d-block w-100 vh-100 img-fluid"
                         src="https://i.ibb.co/Kz5v8HN/cars-3.jpg"
                         alt="Third slide"
                     />

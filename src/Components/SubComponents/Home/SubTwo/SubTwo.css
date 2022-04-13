@@ -1,0 +1,56 @@
+.sub-container-2{
+    background: url('https://i.ibb.co/0rq2n2y/asset-2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.info{
+    width: 36rem;
+    margin: 0 auto;
+}
+.c-info{
+    padding: 0 0.938rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(38, 9, 12, 1);
+    color: white;
+    border-radius: 3px;
+}
+.c-info span{
+    font-size: 2.5rem;
+}
+.stock-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.stock-info p{
+    font-size: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 2.75rem;
+}
+.stock-info p>span{
+    background-color:rgba(66, 18, 16, 1);
+    padding: 0.625rem;
+    border-radius: 3px;
+}
+/* .container-title{
+    text-align: center;
+    color: white;
+    padding: 0.625rem 0;
+}
+.container-subtitle{
+    width: 56.25rem;
+    margin: 0 auto 1.8rem;
+    color: white;
+} */
